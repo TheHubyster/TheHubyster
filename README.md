@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @TheHubyster
 - 👀 I’m interested in various aspects of computing
 - 👀 I am also a knitter
+- 👀 I have a personal blog
 - 🌱 I’m currently learning Python for learning sake
 - 💞️ I’m not looking to collaborate on anything atm
 - 📫 How to reach me, just use email
